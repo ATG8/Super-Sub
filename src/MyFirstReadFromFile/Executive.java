@@ -2,7 +2,7 @@ package MyFirstReadFromFile;
 
 /**
  * Date: 6/26/16
- * Class: CMIS 242 7380
+ * Class:
  * Author: ATG8
  * Purpose: This is the subclass Salesman which uses superclass Employee.  It
  *          will use firstName, lastName, and monthlySalary from superclass
